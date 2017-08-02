@@ -1,0 +1,90 @@
+.main{
+ display: inline-block;
+ border-style: solid;
+ border-width: thin;
+ align-items: center;
+ width: 15rem;
+ height: auto;
+ margin-left: 35px;
+}
+
+.robotName{
+ color: blue;
+ text-decoration: underline;
+}
+
+.Name{
+ font: italic 2em "Open Sans", sans-serif;
+}
+
+
+.container {
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ padding: 10px;
+}
+
+.alldata {
+ width: 1000px;
+ margin: 15px;
+ padding: 5px;
+}
+
+.IndAvatar{
+ border: 1px solid lightgrey;
+ border-radius: 50%;
+}
+
+.topbar {
+ display: flex;
+ justify-content: center;
+}
+
+.details {
+ text-align: center;
+}
+
+.contact {
+ text-align: left;
+}
+
+.citywork {
+ display: inline-flex;
+
+}
+
+a {
+ text-decoration: none;
+}
+
+p {
+ margin: auto;
+ padding-left: 25px;
+}
+
+h1 {
+ color: #3F4E5C;
+ font-size: 2.0em;
+}
+
+h3 {
+ color: red;
+ padding-left: 10px;
+
+}
+
+th {
+ display: flex;
+ justify-content: flex-end;
+ padding: 15px;
+}
+
+ul {
+ list-style-type: none;
+}
+
+table {
+ display: flex;
+ justify-content: center;
+}
